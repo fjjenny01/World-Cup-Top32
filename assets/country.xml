@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+    <country id="0">
+        <chineseName>巴西</chineseName>
+        <englishName>Brazil</englishName>
+        <firstLetter>B</firstLetter>
+        <imgUrl>http://120.198.193.77/image/11.png</imgUrl>
+        <imgLarge>http://photo.hanyu.iciba.com/upload/encyclopedia_2/df/6c/bk_df6c7e30d7e4be6c90a8448825cc8900_3RD7qq.jpg</imgLarge>
+    </country>
+    <country id="1">
+        <chineseName>克罗地亚</chineseName>
+        <englishName>Croatia</englishName>
+        <firstLetter>C</firstLetter>
+        <imgUrl>http://120.198.193.77/image/12.png</imgUrl>
+        <imgLarge>http://pic.nipic.com/2008-06-27/200862722721326_2.jpg</imgLarge>
+    </country>
+    <country id="2">
+        <chineseName>墨西哥</chineseName>
+        <englishName>Mexico</englishName>
+        <firstLetter>M</firstLetter>
+        <imgUrl>http://120.198.193.77/image/13.png</imgUrl>
+        <imgLarge>http://image.zcool.com.cn/2013/2/26/1371794143688.jpg</imgLarge>
+    </country>
+    <country id="3">
+        <chineseName>查麦隆</chineseName>
+        <englishName>Check Cameron</englishName>
+        <firstLetter>C</firstLetter>
+        <imgUrl>http://120.198.193.77/image/14.png</imgUrl>
+        <imgLarge>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/600px-Flag_of_Cameroon.svg.png</imgLarge>
+    </country>
+    <country id="4">
+        <chineseName>西班牙</chineseName>
+        <englishName>Spain</englishName>
+        <firstLetter>S</firstLetter>
+        <imgUrl>http://120.198.193.77/image/21.png</imgUrl>
+        <imgLarge>http://www.bz55.com/uploads/allimg/140615/1-140615135915.png</imgLarge>
+    </country>
+    <country id="5">
+        <chineseName>荷兰</chineseName>
+        <englishName>Holland</englishName>
+        <firstLetter>H</firstLetter>
+        <imgUrl>http://120.198.193.77/image/22.png</imgUrl>
+        <imgLarge>http://pic.nipic.com/2007-11-06/200711614261541_2.jpg</imgLarge>
+    </country>
+    <country id="6">
+        <chineseName>智利</chineseName>
+        <englishName>Chile</englishName>
+        <firstLetter>C</firstLetter>
+        <imgUrl>http://120.198.193.77/image/23.png</imgUrl>
+        <imgLarge>http://www.bz55.com/uploads/allimg/140615/1-140615144948.png</imgLarge>
+    </country>
+    
+    <country id="7">
+        <chineseName>澳大利亚</chineseName>
+        <englishName>Australia</englishName>
+        <firstLetter>A</firstLetter>
+        <imgUrl>http://120.198.193.77/image/24.png</imgUrl>
+        <imgLarge>http://a1.att.hudong.com/13/97/01300000329092124720974128477.jpg</imgLarge>
+    </country>
+    <country id="8">
+        <chineseName>哥伦比亚</chineseName>
+        <englishName>Columbia</englishName>
+        <firstLetter>C</firstLetter>
+        <imgUrl>http://120.198.193.77/image/31.png</imgUrl>
+        <imgLarge>http://pic.nipic.com/2007-11-06/2007116143650920_2.jpg</imgLarge>
+    </country>
+    <country id="9">
+        <chineseName>希腊</chineseName>
+        <englishName>Greek</englishName>
+        <firstLetter>G</firstLetter>
+        <imgUrl>http://120.198.193.77/image/32.png</imgUrl>
+        <imgLarge>http://www.yahangtrip.com/uploadfiles/upfiles_qz/2012113058720705.jpg</imgLarge>
+    </country>
+    <country id="10">
+        <chineseName>科特迪瓦</chineseName>
+        <englishName>Côte d'Ivoire</englishName>
+        <firstLetter>C</firstLetter>
+        <imgUrl>http://120.198.193.77/image/33.png</imgUrl>
+        <imgLarge>http://www.cnlogo.com/show/guoqi/%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6.png</imgLarge>
+    </country>
+    <country id="11">
+        <chineseName>日本</chineseName>
+        <englishName>Japan</englishName>
+        <firstLetter>J</firstLetter>
+        <imgUrl>http://120.198.193.77/image/34.png</imgUrl>
+        <imgLarge>http://image.rakuten.co.jp/futaba-sousyoku/cabinet/kokki/japan-kokki.jpg?_ex=128x128</imgLarge>
+    </country>
+    <country id="12">
+        <chineseName>乌拉圭</chineseName>
+        <englishName>Uruguay</englishName>
+        <firstLetter>U</firstLetter>
+        <imgUrl>http://120.198.193.77/image/41.png</imgUrl>
+        <imgLarge>http://www.bz55.com/uploads/allimg/140619/1-140619151124.png</imgLarge>
+    </country>
+    <country id="13">
+        <chineseName>哥斯达黎加</chineseName>
+        <englishName>Costa Rica</englishName>
+        <firstLetter>C</firstLetter>
+        <imgUrl>http://120.198.193.77/image/42.png</imgUrl>
+        <imgLarge>http://www.bz55.com/uploads/allimg/140624/1-140624163126.png</imgLarge>
+    </country>
+    <country id="14">
+        <chineseName>英格兰</chineseName>
+        <englishName>England</englishName>
+        <firstLetter>E</firstLetter>
+        <imgUrl>http://120.198.193.77/image/43.png</imgUrl>
+        <imgLarge>http://www.bz55.com/uploads/allimg/140615/1-140615141T1.png</imgLarge>
+    </country>
+    <country id="15">
+        <chineseName>意大利</chineseName>
+        <englishName>Italy</englishName>
+        <firstLetter>I</firstLetter>
+        <imgUrl>http://120.198.193.77/image/44.png</imgUrl>
+        <imgLarge>http://www.bz55.com/uploads/allimg/140615/1-140615100111.png</imgLarge>
+    </country>
+    <country id="16">
+        <chineseName>瑞士</chineseName>
+        <englishName>Switzerland</englishName>
+        <firstLetter>S</firstLetter>
+        <imgUrl>http://120.198.193.77/image/51.png</imgUrl>
+        <imgLarge>http://a4.att.hudong.com/40/11/19300534395715135219111354154.jpg</imgLarge>
+    </country>
+    <country id="17">
+        <chineseName>厄瓜多尔</chineseName>
+        <englishName>Gewaduoer</englishName>
+        <firstLetter>G</firstLetter>
+        <imgUrl>http://120.198.193.77/image/52.png</imgUrl>
+        <imgLarge>http://img.sc115.com/uploads/sc/110914/2011091421230259.jpg</imgLarge>
+    
+    </country>
+    <country id="18">
+        <chineseName>法国</chineseName>
+        <englishName>France</englishName>
+        <firstLetter>F</firstLetter>
+        <imgUrl>http://120.198.193.77/image/53.png</imgUrl>
+        <imgLarge>http://a1.att.hudong.com/34/32/16300000471249125774321823535.jpg</imgLarge>
+    </country>
+    <country id="19">
+        <chineseName>洪都拉斯</chineseName>
+        <englishName>Honduras</englishName>
+        <firstLetter>H</firstLetter>
+        <imgUrl>http://120.198.193.77/image/54.png</imgUrl>
+        <imgLarge>http://a3.att.hudong.com/93/63/01000000000000119086302617893.jpg</imgLarge>
+    </country>
+    <country id="20">
+        <chineseName>阿根廷</chineseName>
+        <englishName>Argentina</englishName>
+        <firstLetter>A</firstLetter>
+        <imgUrl>http://120.198.193.77/image/61.png</imgUrl>
+        <imgLarge>http://pic.nipic.com/2007-11-02/2007112153657825_2.jpg</imgLarge>
+    </country>
+    <country id="21">
+        <chineseName>波黑</chineseName>
+        <englishName>Bosnia and Herzegovina</englishName>
+        <firstLetter>B</firstLetter>
+        <imgUrl>http://120.198.193.77/image/62.png</imgUrl>
+        <imgLarge>http://a4.att.hudong.com/00/41/01300000240273129308418688876.jpg</imgLarge>
+    </country>
+    <country id="22">
+        <chineseName>伊朗</chineseName>
+        <englishName>Iran</englishName>
+        <firstLetter>I</firstLetter>
+        <imgUrl>http://120.198.193.77/image/63.png</imgUrl>
+        <imgLarge>http://images.huanqiu.com/sarons/2012/12/6ba13a60e163dcc3c044da83860330c3.png</imgLarge>
+    </country>
+    <country id="23">
+        <chineseName>尼日利亚</chineseName>
+        <englishName>Nigeria</englishName>
+        <firstLetter>N</firstLetter>
+        <imgUrl>http://120.198.193.77/image/64.png</imgUrl>
+        <imgLarge>http://i0.sinaimg.cn/dy/general/client_pub/201406/32accac1471b04f1e1758060009374b2.png</imgLarge>
+    </country>
+    <country id="24">
+        <chineseName>德国</chineseName>
+        <englishName>Germany</englishName>
+        <firstLetter>G</firstLetter>
+        <imgUrl>http://120.198.193.77/image/71.png</imgUrl>
+        <imgLarge>http://www.bz55.com/uploads/allimg/140614/1-140614160231.png</imgLarge>
+    </country>
+    <country id="25">
+        <chineseName>葡萄牙</chineseName>
+        <englishName>Portugal</englishName>
+        <firstLetter>P</firstLetter>
+        <imgUrl>http://120.198.193.77/image/72.png</imgUrl>
+        <imgLarge>http://www.yooyoo360.com/photo/2009-3-29/pic21288.jpg</imgLarge>
+    </country>
+    <country id="26">
+        <chineseName>加纳</chineseName>
+        <englishName>Ghana</englishName>
+        <firstLetter>G</firstLetter>
+        <imgUrl>http://120.198.193.77/image/73.png</imgUrl>
+        <imgLarge>http://www.sinofourway.com/flag/UploadFiles/2013/2/20130809165222609.gif</imgLarge>
+    </country>
+    <country id="27">
+        <chineseName>美国</chineseName>
+        <englishName>U.S.</englishName>
+        <firstLetter>U</firstLetter>
+        <imgUrl>http://120.198.193.77/image/74.png</imgUrl>
+        <imgLarge>http://www.ivsky.com/img/tupian/pic/201010/06/meiguo.png</imgLarge>
+    </country>
+    <country id="28">
+        <chineseName>比利时</chineseName>
+        <englishName>Belgium</englishName>
+        <firstLetter>B</firstLetter>
+        <imgUrl>http://120.198.193.77/image/81.png</imgUrl>
+        <imgLarge>http://www.zlsale.com/Upload/1/21/212/20120322093308.jpg</imgLarge>
+    </country>
+    <country id="29">
+        <chineseName>阿尔及利亚</chineseName>
+        <englishName>Algeria</englishName>
+        <firstLetter>A</firstLetter>
+        <imgUrl>http://120.198.193.77/image/82.png</imgUrl>
+        <imgLarge>http://images.huanqiu.com/sarons/2012/12/ae329fd394e464c8875b58b8a0b034c3.png</imgLarge>
+    </country>
+    <country id="30">
+        <chineseName>俄罗斯</chineseName>
+        <englishName>Russia</englishName>
+        <firstLetter>R</firstLetter>
+        <imgUrl>http://120.198.193.77/image/83.png</imgUrl>
+        <imgLarge>http://images.huanqiu.com/sarons/2012/12/dd1c8f20bc0fe1cf7921ed999cb63e19.png</imgLarge>
+    </country>
+    <country id="31">
+        <chineseName>韩国</chineseName>
+        <englishName>Korea</englishName>
+        <firstLetter>K</firstLetter>
+        <imgUrl>http://120.198.193.77/image/84.png</imgUrl>
+        <imgLarge>http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png</imgLarge>
+    </country>
+</countries>
